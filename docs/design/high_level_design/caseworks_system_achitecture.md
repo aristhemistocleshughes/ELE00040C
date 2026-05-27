@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This document describes the system architecture for the Wearable Parkinson's Monitor
+This document describes the system architecture for the Wearable Parkinson's Monitor.
 
 ## System Architecture
 
@@ -93,6 +93,7 @@ As the patient wearing the device experiences tremors, the acceleromter datapoin
 1. Limb tremors take place in 3D. The accelerometer generates (x, y, z) acceleration datapoints.
 1. The datapoints are received by the MCU software over a SPI or I2C bus.
 
+
 #### Microcontroller Unit System-on-Chip (MCU SOC)
 
 The MCU runs the software which processes the data from the accelerometer, stores samples in the flash, runs the display user interace and communicates with the users phone over the BLE interface.
@@ -107,50 +108,24 @@ The MCU runs the software which processes the data from the accelerometer, store
 
 
 #### Display
+Todo: write this section.
 
 
 #### Secure Flash
+Todo: write this section.
+
+
 #### BLE Wireless interface
+Todo: write this section.
+
+
 #### Battery
+Todo: write this section.
+
+
 #### USB Connector
+Todo: write this section.
+
 #### Buttons
+Todo: write this section.
 
-
-
-1. 
-    1. 
-    1. 
-1. 
-
-
-### The Users Phone
-
-### The Cloud
-
-This document describes the caseworks system architecture.
-
-```
-
-                                                      ┌─────────────────────────────────┐
-┌──────────────┐                                      │      Watch Type Form Factor     │
-│              │                                      │                                 │
-│    PC        │                                      │              Case               │
-│              │                                      │  ┌─────────────────────────────┐│
-│  Running     │                                      │  │                             ││
-│              │                                      │  │   Accelerometer             ││
-│  Terminal    │                                      │  │                             ││
-│              │             USB Cable                ├──┴──┐                          ││
-│  Console     ┼──────────────────────────────────────┼ USB │                          ││
-│              │                                      ├──┬──┘                          ││
-└──────────────┘                                      │  │                             ││
-                                                      │  └─────────────────────────────┘│
-                                                      └─────────────────────────────────┘
-                                                                                                      
-``` 
-Figure: Autodesk 3D Fusion isometric mock-up of intended device form factor.
-
-The following picture shows the intended form factor of the wearable device.
-
-                                                                                                      
-![ELE00040C_ATH_watch_with_straps_caseworks_v0.0.0](../../../caseworks/pre_v0.0.0/ELE00040C_ATH_watch_with_straps_caseworks_v0.0.0.png) Figure: Autodesk 3D Fusion isometric mock-up of intended device form factor.
-                                                                                                      
