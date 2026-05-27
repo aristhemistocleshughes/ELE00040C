@@ -13,6 +13,8 @@ i.e. in quoted italics. The requirements is then decomposed and elaborated in no
 
 References to sections refers to a number section in the original specification document e.g. "Section 2.0 Assignment Scenario" refers to Section 2.0 in the specification.
 
+This document is a work in progress and has not been completed.
+
 ## Section 1.0 Requirements
 
 From [1]:
@@ -80,7 +82,7 @@ Project Requirements:
 1. *“review your log and assess your progress against the Gantt chart”*
 1. *“Complete the team log each week”*
 1. *“provide evidence of your contribution to the project in the team log, this will be referenced by you in your project specification and final report” [MUST]*
-1. *“Team log and outline Gantt chart templates are provided in your team's google drive folder”*
+1. *“Team log and outline Gantt ch|art templates are provided in your team's google drive folder”*
 1. *“report should include minutes of any group meetings”*
 
 
@@ -99,29 +101,29 @@ Project Requirements:
 ### Section 3.1 Ideation and Planning
 
 1. *"Define the characteristics of the tremors you will be measuring. Remember, you need to differentiate between at least two types of tremors."*
-2. Determine a method for measuring tremors that can be housed in a wearable device, taking into account the requirements of the user.
-3. Consider how and what data will be recorded.
-4. Determine a mechanical mechanism that can mimic the characteristic of the tremors.
-5. Consider opportunities for innovation and specialisation.
-6. Equality is an important element of the design process. In designing your device are you considering all stakeholders and their needs?
-7. Consider the security of the data collected by your device.
-8. Produce a project plan that breaks down the work to be completed, construct an appropriate timeline of activities, plan identifies and mitigate risks.
-9. What impact does your idea have on society?
-10. Determine whether there are any ethical considerations that need addressing in your project.
-11. Complete the ethics form on the vle; this will aidyou in identifying any areas of ethics to address.
-12. Does your project plan equitably distribute the work between members of the team, and addresses and manages risks to the project.
+2. *"Determine a method for measuring tremors that can be housed in a wearable device, taking into account the requirements of the user."*
+3. *"Consider how and what data will be recorded."*
+4. "* *"Determine a mechanical mechanism that can mimic the characteristic of the tremors."*
+5. *"Consider opportunities for innovation and specialisation."*
+6. *"Equality is an important element of the design process. In designing your device are you considering all stakeholders and their needs?"*
+7. *"Consider the security of the data collected by your device."*
+8. *"Produce a project plan that breaks down the work to be completed, construct an appropriate timeline of activities, plan identifies and mitigate risks."*
+9. *"What impact does your idea have on society?"*
+10. *"Determine whether there are any ethical considerations that need addressing in your project."*
+11. *"Complete the ethics form on the vle; this will aidyou in identifying any areas of ethics to address."*
+12. *"Does your project plan equitably distribute the work between members of the team, and addresses and manages risks to the project."*
 
 
 ### Section 3.2 Product design
 
-1. Design the electronic components for the wearable device. Don’t forget to include a suitable method for:
-    1. collecting tremor data.
-    1. recording tremor data.
-1. Design a suitable housing and method for mounting the wearable device.
-1. Design and implement the logic for the microcontroller.
-1. Design a mechanical actuator that can be used to mimic tremor characteristics. A prototype stand is provided that can be used to house your actuator, feel free to use this or design your own if you have the time available.
-1. What impact does your design have on society?
-1. Identify any constraints for your design, these can include environmental and sustainability limitations; ethical, security and risk issues; intellectual property.
+1. *"Design the electronic components for the wearable device. Don’t forget to include a suitable method for:"*
+    1. *"collecting tremor data."*
+    1. *"recording tremor data."*
+1. *"Design a suitable housing and method for mounting the wearable device."*
+1. *"Design and implement the logic for the microcontroller."*
+1. *"Design a mechanical actuator that can be used to mimic tremor characteristics. A prototype stand is provided that can be used to house your actuator, feel free to use this or design your own if you have the time available."*
+1. *"What impact does your design have on society?"*
+1. *"Identify any constraints for your design, these can include environmental and sustainability limitations; ethical, security and risk issues; intellectual property."*
 
 
 ### Section 3.3 Product Manufacturing
@@ -132,7 +134,7 @@ Project Requirements:
 1. *"Produce CAD files for all the physical components that can be used by the 3D printer or the laser cutter."*
 1. *"Consider the use of CAD to test the mechanical design prior to the construction of your tremor generator."*
 1. *"You will be introduced to the manufacturing methods available in the first workshop session in week 1. However, if you are unsure which processes to employ or what is available then please talk with the workshop technical staff or your module coordinator."*
-1. *"What impact do your manufacturing choices have on society?■​ Consider the sustainability of your material choices."*
+1. *"What impact do your manufacturing choices have on society?​ Consider the sustainability of your material choices."*
 
 
 ### Section 3.4 Testing and Refinement
